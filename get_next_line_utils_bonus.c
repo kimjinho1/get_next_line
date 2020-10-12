@@ -6,11 +6,11 @@
 /*   By: jinhokim <jinhokim@student.42seoul.kr>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/12 08:46:25 by jinhokim          #+#    #+#             */
-/*   Updated: 2020/10/12 15:49:13 by jinhokim         ###   ########.fr       */
+/*   Updated: 2020/10/12 19:10:23 by jinhokim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t		ft_strlen(const char *s)
 {
